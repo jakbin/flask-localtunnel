@@ -53,5 +53,7 @@ if __name__ == '__main__':
 Running the example:
 ```bash
 python flask_lt_example.py
- * 
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * localtunnel is alreadty installed.
+ * your url is: https://<random-url>.loca.lt
 ```
