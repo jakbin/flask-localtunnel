@@ -1,0 +1,4 @@
+build/
+dist/
+flask_localtunnel.egg-info/
+__pycache__*
