@@ -15,7 +15,7 @@ Use it only for educational purpose.
 
 A simple way to demo Flask apps from your machine.
 Makes your [Flask](http://flask.pocoo.org/) apps running on localhost available
- over the internet via the excellent [localtunnel](https://) tool.
+ over the internet via the excellent [localtunnel](https://github.com/localtunnel/localtunnel) tool.
 
 ## Compatability
 Python 3.6+ is required.
