@@ -17,6 +17,6 @@ setuptools.setup(
         "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
     ],
-    keywords='flask,localtunnel,demo',
+    keywords='flask,flask-ngrok,ngrok,localtunnel,demo',
     install_requires=['Flask>=0.14.0'],
 )
