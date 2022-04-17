@@ -2,7 +2,7 @@ import os
 import time
 from threading import Timer
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 def run_lt(port):
 	if os.path.isfile('/usr/local/bin/lt'):
