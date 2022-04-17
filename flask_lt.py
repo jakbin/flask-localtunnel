@@ -1,11 +1,12 @@
 import os
+import shutil
 import time
 from threading import Timer
 
-__version__ = "1.0.1"
+__version__ = "1.1.0"
 
 def run_lt(port):
-	if os.path.isfile('/usr/local/bin/lt'):
+	if shutil.which('lt'):
 		print("localtunnel is alreadty installed.")
 	else:
 		os.system('npm install -g localtunnel')
