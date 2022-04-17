@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="flask-localtunnel",
+    name="flask_lt",
     version=__version__,
     author="Jak Bin",
     description="A simple way to demo Flask apps from your machine.",
