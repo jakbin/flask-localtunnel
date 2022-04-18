@@ -6,9 +6,7 @@ from threading import Timer
 __version__ = "1.1.0"
 
 def run_lt(port):
-	if shutil.which('lt'):
-		print("localtunnel is alreadty installed.")
-	else:
+	if not shutil.which('lt'):
 		os.system('npm install -g localtunnel')
 	output = os.system(f'lt -p {port}')
 	return output
