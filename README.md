@@ -58,4 +58,6 @@ python flask_lt_example.py
  * your url is: https://<random-url>.loca.lt
 ```
 
-### Contributer :- @henk717 
+### Contributer :- 
+- @henk717
+- @NobreHD : subdomain support 
