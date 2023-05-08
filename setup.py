@@ -19,5 +19,5 @@ setuptools.setup(
     ],
     keywords='flask,flask-ngrok,ngrok,localtunnel,demo',
     py_modules=['flask_lt'],
-    install_requires=['Flask>=0.14.0'],
+    install_requires=['Flask>=0.14.0','py-localtunnel'],
 )
