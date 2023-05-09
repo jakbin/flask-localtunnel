@@ -56,6 +56,9 @@ python flask_lt_example.py
  * your url is: https://<random-url>.loca.lt
 ```
 
+## Tutorial
+[Watch Here](https://youtu.be/yaJoZjg9B5k)
+
 ### Support my work :-
 
 BTC - bc1qx2p08qtsxxdzj0yfr2cm7yy3g5ydv3mt2753le\
