@@ -1,10 +1,10 @@
 from threading import Timer
 from py_localtunnel.lt import run_localtunnel
 
-__version__ = "1.0.6"
+__version__ = "1.0.7"
 
-def run_lt(port: int, subdomain: str = None):
-    run_localtunnel(port, subdomain)
+def run_lt(port: int, subdomain: str = None, local_host: str = "127.0.0.1"):
+    run_localtunnel(port, subdomain, local_host)
 
 def start_lt(port: int, subdomain: str = None):
     lt_adress = run_lt(port, subdomain)
