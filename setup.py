@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple way to demo Flask apps from your machine.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/redevil1/flask-localtunnel",
+    url="https://github.com/jakbin/flask-localtunnel",
     classifiers=[
         "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: Apache Software License",
